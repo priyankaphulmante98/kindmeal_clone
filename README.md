@@ -7,10 +7,10 @@ Hello everyone, this is a Readme for our construct week project that has been co
 
 1. Raushan Raj
 2. Amit singh
-3. Priyanka phulmante
-4. Shridhar Hakke 
-5. Shreshth Raj
-6. Lakhan Gurnule 
+3. Shridhar Hakke 
+4. Shreshth Raj
+5. Lakhan Gurnule 
+6. Priyanka phulmante
 
 ## The Journey:
 
